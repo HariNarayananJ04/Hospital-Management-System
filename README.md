@@ -24,8 +24,6 @@ This project demonstrates how real-world entities like doctors and patients can 
    - Based on user input, it performs the desired action by calling methods from `Doctor` or `Patient` classes.  
    - Stores all doctors and patients inside **ArrayLists** (like dynamic lists in Java).  
 
-   👉 Think of it like a manager who maintains two lists: one for doctors and one for patients.  
-
 ---
 
 2. **Doctor.java**  
@@ -38,9 +36,6 @@ This project demonstrates how real-world entities like doctors and patients can 
    - Includes **getters and setters** (Encapsulation).  
    - Helps the main system to **add**, **view**, or **delete** doctors easily.  
 
-   👉 In interviews, you can say:  
-   *“Doctor class is a blueprint for doctor objects. It demonstrates encapsulation and data abstraction.”*
-
 ---
 
 3. **Patient.java**  
@@ -52,9 +47,6 @@ This project demonstrates how real-world entities like doctors and patients can 
      String disease;
      ```
    - Used to create, store, and display patient data.  
-
-   👉 You can explain:  
-   *“Patient class models the patient details and provides methods to access and modify them.”*
 
 ---
 
@@ -91,7 +83,7 @@ It’s basically a **CRUD** (Create, Read, Update, Delete) style console app.
 
 ## 🧑‍💻 Author
 
-**Hari** — just a chill guy 😎  
+**Hari Narayanan J** — just a chill guy 😎  
 > Passionate about coding, data, and building cool stuff in Java and Python.
 
 ---
